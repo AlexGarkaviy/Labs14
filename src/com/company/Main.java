@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
+        // Написать консольная программа печатает на консоли каждого из простых
+        // типов данных (байт, короткие, int, long, float, double, char, boolean).
         byte a = 1;
         short b = 2;
         int c = 3;
@@ -15,7 +17,7 @@ public class Main {
                 + "long " + d+"\n" + "float " + e+"\n" + "double " + f + "\n"
                 + "boolean "+ s );
 
-        
+
         System.out.println();
         System.out.println(a);
         System.out.println(b);
